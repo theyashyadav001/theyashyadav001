@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Yash Yadav
 
-<!--
-**theyashyadav001/theyashyadav001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 👨‍💻 Web Developer | 🧠 ML Enthusiast
+🚀 Founder of WebMadeEasy | 🛠️ Building smart solutions for real-world problems
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Languages: Python, Java, JavaScript, HTML, CSS
+* 🧠 Tools: VS Code, Git, GitHub, Google Colab, Jupyter Notebook
+* 📊 Projects: Brain Tumor Detection, Weather App, Student Management System
+
+## 📈 Current Projects
+
+* 🌤️ Weather Website using HTML/CSS/JS
+* 🧑‍🏫 AI-Powered Career Counselor (In Progress)
+* 🎓 Student Management System (Backend + Frontend)
+
+## 📬 Connect With Me
+
+* 📸 [Instagram](https://www.instagram.com/the.yash.yadav01?igsh=ZnFzcTR4ZWRxcnJu)
+* 💼 [LinkedIn](https://www.linkedin.com/in/yash-rao-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* 🌐 Portfolio: coming soon...
+
+---
+
+⭐ **Fun fact:** I love turning ideas into websites!
